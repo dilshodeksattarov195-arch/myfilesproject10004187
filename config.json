@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensave",
+        "uuid": 28191071,
+        "checksum": "a0l7wa"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
